@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>java.lang.Throwable</OriginalElement>
+  <nodes>
+    <node x="794.875" y="95.0">java.lang.Throwable</node>
+    <node x="215.71944444444443" y="285.0">java.lang.StackOverflowError</node>
+    <node x="490.24999999999994" y="190.0">java.lang.Error</node>
+    <node x="0.0" y="380.0">java.lang.NumberFormatException</node>
+    <node x="840.7194444444444" y="285.0">java.lang.RuntimeException</node>
+    <node x="367.0" y="380.0">java.lang.ArrayIndexOutOfBoundsException</node>
+    <node x="857.0" y="380.0">java.lang.ClassCastException</node>
+    <node x="1251.0" y="190.0">java.lang.Exception</node>
+    <node x="1139.7194444444444" y="285.0">java.io.FileNotFoundException</node>
+    <node x="1523.0" y="380.0">java.lang.NullPointerException</node>
+    <node x="876.375" y="0.0">java.io.Serializable</node>
+    <node x="1506.7194444444444" y="285.0">java.lang.ClassNotFoundException</node>
+    <node x="713.375" y="0.0">java.lang.Object</node>
+    <node x="1183.0" y="380.0">java.lang.ArithmeticException</node>
+    <node x="541.7194444444444" y="285.0">java.lang.OutOfMemoryError</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="java.lang.Throwable" target="java.io.Serializable">
+      <point x="46.0" y="-22.5" />
+      <point x="932.875" y="70.0" />
+      <point x="988.875" y="70.0" />
+      <point x="0.0" y="22.5" />
+    </edge>
+    <edge source="java.lang.ArithmeticException" target="java.lang.RuntimeException">
+      <point x="0.0" y="-22.5" />
+      <point x="1343.0" y="360.0" />
+      <point x="1036.0194444444444" y="360.0" />
+      <point x="55.80000000000007" y="22.5" />
+    </edge>
+    <edge source="java.lang.ArrayIndexOutOfBoundsException" target="java.lang.RuntimeException">
+      <point x="0.0" y="-22.5" />
+      <point x="602.0" y="360.0" />
+      <point x="924.4194444444445" y="360.0" />
+      <point x="-55.799999999999955" y="22.5" />
+    </edge>
+    <edge source="java.lang.StackOverflowError" target="java.lang.Error">
+      <point x="0.0" y="-22.5" />
+      <point x="368.71944444444443" y="260.0" />
+      <point x="522.5" y="260.0" />
+      <point x="-32.25" y="22.5" />
+    </edge>
+    <edge source="java.lang.NullPointerException" target="java.lang.RuntimeException">
+      <point x="0.0" y="-22.5" />
+      <point x="1690.0" y="350.0" />
+      <point x="1091.8194444444443" y="350.0" />
+      <point x="111.60000000000002" y="22.5" />
+    </edge>
+    <edge source="java.lang.OutOfMemoryError" target="java.lang.Error">
+      <point x="0.0" y="-22.5" />
+      <point x="681.2194444444444" y="260.0" />
+      <point x="587.0" y="260.0" />
+      <point x="32.25" y="22.5" />
+    </edge>
+    <edge source="java.lang.Error" target="java.lang.Throwable">
+      <point x="0.0" y="-22.5" />
+      <point x="554.75" y="165.0" />
+      <point x="840.875" y="165.0" />
+      <point x="-46.0" y="22.5" />
+    </edge>
+    <edge source="java.lang.RuntimeException" target="java.lang.Exception">
+      <point x="0.0" y="-22.5" />
+      <point x="980.2194444444444" y="260.0" />
+      <point x="1281.6666666666667" y="260.0" />
+      <point x="-61.33333333333326" y="22.5" />
+    </edge>
+    <edge source="java.lang.Exception" target="java.lang.Throwable">
+      <point x="0.0" y="-22.5" />
+      <point x="1343.0" y="165.0" />
+      <point x="932.875" y="165.0" />
+      <point x="46.0" y="22.5" />
+    </edge>
+    <edge source="java.lang.ClassCastException" target="java.lang.RuntimeException">
+      <point x="0.0" y="-22.5" />
+      <point x="1010.0" y="360.0" />
+      <point x="980.2194444444444" y="360.0" />
+      <point x="0.0" y="22.5" />
+    </edge>
+    <edge source="java.io.FileNotFoundException" target="java.lang.Exception">
+      <point x="0.0" y="-22.5" />
+      <point x="1313.2194444444444" y="260.0" />
+      <point x="1343.0" y="260.0" />
+      <point x="0.0" y="22.5" />
+    </edge>
+    <edge source="java.lang.Throwable" target="java.lang.Object">
+      <point x="-46.0" y="-22.5" />
+      <point x="840.875" y="70.0" />
+      <point x="784.875" y="70.0" />
+      <point x="0.0" y="22.5" />
+    </edge>
+    <edge source="java.lang.NumberFormatException" target="java.lang.RuntimeException">
+      <point x="0.0" y="-22.5" />
+      <point x="173.5" y="350.0" />
+      <point x="868.6194444444443" y="350.0" />
+      <point x="-111.60000000000002" y="22.5" />
+    </edge>
+    <edge source="java.lang.ClassNotFoundException" target="java.lang.Exception">
+      <point x="0.0" y="-22.5" />
+      <point x="1687.2194444444444" y="260.0" />
+      <point x="1404.3333333333333" y="260.0" />
+      <point x="61.33333333333326" y="22.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="0.6926517571884984" x="870.779520295203" y="977.899446494465" />
+  <SelectedNodes />
+  <Categories>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
