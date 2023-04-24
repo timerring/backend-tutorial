@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>java.lang.Byte</OriginalElement>
+  <nodes>
+    <node x="548.94885606625" y="2935.4371717387785">java.io.Serializable</node>
+    <node x="644.169591004184" y="2624.8506387342363">java.lang.Comparable</node>
+    <node x="342.14505117854003" y="2201.3498506824076">java.lang.Object</node>
+    <node x="18.702596190875283" y="952.0863778403582">java.lang.Double</node>
+    <node x="1079.914037345309" y="0.6053266275265514">java.lang.Integer</node>
+    <node x="342.03012838610795" y="2638.306120990811">java.lang.Number</node>
+    <node x="984.0990675262681" y="2508.130602809404">java.lang.Float</node>
+    <node x="484.8517893302093" y="3034.4898504601747">java.lang.Long</node>
+    <node x="645.249032166163" y="1603.6033153405083">java.lang.Byte</node>
+    <node x="0.8449756695415829" y="2443.3521166068963">java.lang.Short</node>
+  </nodes>
+  <notes />
+  <edges />
+  <settings layout="Hierarchic" zoom="1.6278413645291736" showDependencies="false" x="231.56254143984503" y="1090.241550474395" />
+  <SelectedNodes>
+    <node>java.lang.Double</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

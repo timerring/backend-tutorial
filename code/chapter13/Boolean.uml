@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>java.lang.Boolean</OriginalElement>
+  <nodes>
+    <node x="251.0" y="95.0">java.lang.Boolean</node>
+    <node x="462.0" y="0.0">java.lang.Object</node>
+    <node x="0.0" y="0.0">java.lang.Comparable</node>
+    <node x="217.0" y="0.0">java.io.Serializable</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="java.lang.Boolean" target="java.io.Serializable">
+      <point x="0.0" y="-22.5" />
+      <point x="0.0" y="22.5" />
+    </edge>
+    <edge source="java.lang.Boolean" target="java.lang.Object">
+      <point x="52.333333333333314" y="-22.5" />
+      <point x="381.8333333333333" y="70.0" />
+      <point x="533.5" y="70.0" />
+      <point x="0.0" y="22.5" />
+    </edge>
+    <edge source="java.lang.Boolean" target="java.lang.Comparable">
+      <point x="-52.33333333333334" y="-22.5" />
+      <point x="277.16666666666663" y="70.0" />
+      <point x="98.5" y="70.0" />
+      <point x="0.0" y="22.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="290.5" y="15.5" />
+  <SelectedNodes>
+    <node>java.lang.Boolean</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

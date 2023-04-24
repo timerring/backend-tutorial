@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>java.lang.Character</OriginalElement>
+  <nodes>
+    <node x="110.5" y="433.0">java.lang.Character</node>
+    <node x="462.0" y="0.0">java.lang.Object</node>
+    <node x="0.0" y="154.0">java.lang.Comparable</node>
+    <node x="217.0" y="169.0">java.io.Serializable</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="java.lang.Character" target="java.lang.Comparable">
+      <point x="-146.0" y="-1325.5" />
+      <point x="183.5" y="408.0" />
+      <point x="98.5" y="408.0" />
+      <point x="0.0" y="37.5" />
+    </edge>
+    <edge source="java.lang.Character" target="java.io.Serializable">
+      <point x="0.0" y="-1325.5" />
+      <point x="0.0" y="22.5" />
+    </edge>
+    <edge source="java.lang.Character" target="java.lang.Object">
+      <point x="146.0" y="-1325.5" />
+      <point x="475.5" y="408.0" />
+      <point x="582.0" y="408.0" />
+      <point x="0.0" y="191.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="290.5" y="242.5" />
+  <SelectedNodes>
+    <node>java.io.Serializable</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Methods</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
