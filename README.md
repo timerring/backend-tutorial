@@ -516,10 +516,275 @@ data-cites="Inherited">@Inherited</span></a></li>
 </ul></li>
 </ul></li>
 </ul></details>
+<details> 
+    <summary>第12章 异常Exception</summary>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch12_exception.md#第12章-异常exception">第12章 异常Exception</a>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch12_exception.md#快速入门">快速入门</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch12_exception.md#异常介绍">异常介绍</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch12_exception.md#异常体系图一览">异常体系图一览!</a>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch12_exception.md#异常体系图">异常体系图</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch12_exception.md#异常体系图的小结">异常体系图的小结</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch12_exception.md#常见的运行时异常">常见的运行时异常</a>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch12_exception.md#常见的运行时异常包括">常见的运行时异常包括</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch12_exception.md#常见的运行时异常举例">常见的运行时异常举例</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch12_exception.md#编译异常">编译异常</a>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch12_exception.md#常见的编译异常">常见的编译异常</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch12_exception.md#异常处理">异常处理</a>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch12_exception.md#基本介绍">基本介绍</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch12_exception.md#异常处理的方式">异常处理的方式</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch12_exception.md#示意图">示意图</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch12_exception.md#try-catch-异常处理">try-catch 异常处理</a>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch12_exception.md#try-catch-方式处理异常说明">try-catch
+方式处理异常说明</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch12_exception.md#try-catch-方式处理异常细节">try-catch
+方式处理异常细节</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch12_exception.md#练习">练习</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch12_exception.md#try-catch-finally-执行顺序小结">try-catch-finally
+执行顺序小结</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch12_exception.md#课后练习题">课后练习题</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch12_exception.md#throws-异常处理">throws 异常处理</a>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch12_exception.md#基本介绍-1">基本介绍</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch12_exception.md#快速入门案例">快速入门案例</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch12_exception.md#注意事项和使用细节">注意事项和使用细节</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch12_exception.md#自定义异常">自定义异常</a>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch12_exception.md#基本概念">基本概念</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch12_exception.md#自定义异常的步骤">自定义异常的步骤</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch12_exception.md#自定义异常的应用实例">自定义异常的应用实例</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch12_exception.md#throw-和-throws-的区别">throw 和 throws 的区别</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch12_exception.md#练习-1">练习</a></li>
+</ul></li>
+</ul></li>
+</ul></details>
 
+<details> 
+    <summary>第13章 常用类</summary>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#第13章-常用类">第13章 常用类</a>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#包装类">包装类</a>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#包装类的分类">包装类的分类</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#包装类和基本数据的转换">包装类和基本数据的转换</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#包装类型和string-类型的相互转换">包装类型和String
+类型的相互转换</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#integer-类和character-类的常用方法">Integer 类和Character
+类的常用方法</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#integer-类面试题">Integer 类面试题</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#string-类">String 类</a>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#string-类的理解和创建对象">String
+类的理解和创建对象</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#创建string-对象的两种方式">创建String
+对象的两种方式</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#两种创建string-对象的区别">两种创建String
+对象的区别</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#课堂测试题">课堂测试题</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#字符串的特性">字符串的特性</a>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#说明">说明</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#面试题">面试题</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#string-类的常见方法">String 类的常见方法</a>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#说明-1">说明</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#string-类的常见方法一览">String 类的常见方法一览</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#stringbuffer-类">StringBuffer 类</a>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#基本介绍">基本介绍</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#string-vs-stringbuffer">String VS StringBuffer</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#构造器">构造器</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#string-和-stringbuffer-相互转换">String 和 StringBuffer
+相互转换</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#stringbuffer-类常见方法">StringBuffer 类常见方法</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#stringbuffer-类测试">StringBuffer 类测试</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#stringbuffer-类练习">StringBuffer 类练习</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#stringbuilder-类">StringBuilder 类</a>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#基本介绍-1">基本介绍</a></li>
+<li><a
+href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#stringstringbuffer-和stringbuilder-的比较">String、StringBuffer
+和StringBuilder 的比较</a></li>
+<li><a
+href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#stringstringbuffer-和stringbuilder-的效率测试">String、StringBuffer
+和StringBuilder 的效率测试</a></li>
+<li><a
+href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#stringstringbuffer-和-stringbuilder-的选择">String、StringBuffer
+和 StringBuilder 的选择</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#math-类">Math 类</a>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#基本介绍-2">基本介绍</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#方法一览均为静态方法">方法一览(均为静态方法)</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#math-类常见方法应用案例">Math 类常见方法应用案例</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#arrays-类">Arrays 类</a>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#arrays-类常见方法应用案例">Arrays
+类常见方法应用案例</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#system-类">System 类</a>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#system-类常见方法和案例">System 类常见方法和案例</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#biginteger-和bigdecimal-类">BigInteger 和BigDecimal 类</a>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#介绍">介绍</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#biginteger-和-bigdecimal-常见方法">BigInteger 和
+BigDecimal 常见方法</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#日期类">日期类</a>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#第一代日期类">第一代日期类</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#第二代日期类">第二代日期类</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#第三代日期类">第三代日期类</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#datetimeformatter-格式日期类">DateTimeFormatter
+格式日期类</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#instant-时间戳">Instant 时间戳</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#第三代日期类更多方法">第三代日期类更多方法</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch13_common_class.md#本章作业">本章作业</a></li>
+</ul></li>
+</ul></details>
 
-
-
+<details> 
+    <summary>第14章 集合</summary>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#第14章-集合">第14章 集合</a>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#集合的理解和好处">集合的理解和好处</a>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#数组">数组</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#集合">集合</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#集合的框架体系">集合的框架体系</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#collection-接口和常用方法">Collection 接口和常用方法</a>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#collection-接口实现类的特点">Collection
+接口实现类的特点</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#collection-接口遍历元素方式1-使用iterator">Collection
+接口遍历元素方式1-使用Iterator</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#collection-接口遍历对象方式2-for-循环增强">Collection
+接口遍历对象方式2-for 循环增强</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#list-接口和常用方法">List 接口和常用方法</a>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#list-接口基本介绍">List 接口基本介绍</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#list-接口的常用方法">List 接口的常用方法</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#list-接口课堂练习">List 接口课堂练习</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#list-的三种遍历方式arraylist-linkedlistvector">List
+的三种遍历方式[ArrayList, LinkedList,Vector]</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#实现类的课堂练习2">实现类的课堂练习2</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#arraylist-底层结构和源码分析">ArrayList
+底层结构和源码分析</a>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#arraylist-的注意事项">ArrayList 的注意事项</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#arraylist-的底层操作机制源码分析">ArrayList
+的底层操作机制源码分析</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#vector-底层结构和源码剖析">Vector 底层结构和源码剖析</a>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#vector-的基本介绍">Vector 的基本介绍</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#vector-和-arraylist-的比较">Vector 和 ArrayList
+的比较</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#linkedlist-底层结构">LinkedList 底层结构</a>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#linkedlist-的全面说明">LinkedList 的全面说明</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#linkedlist-的底层操作机制">LinkedList
+的底层操作机制</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#linkedlist-的增删改查案例">LinkedList
+的增删改查案例</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#arraylist-和linkedlist-比较">ArrayList 和LinkedList
+比较</a>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#arraylist-和linkedlist-的比较">ArrayList 和LinkedList
+的比较</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#set-接口和常用方法">Set 接口和常用方法</a>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#set-接口基本介绍">Set 接口基本介绍</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#set-接口的常用方法">Set 接口的常用方法</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#set-接口的遍历方式">Set 接口的遍历方式</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#set-接口的常用方法举例">Set 接口的常用方法举例</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#set-接口实现类-hashset">Set 接口实现类-HashSet</a>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#hashset-的全面说明">HashSet 的全面说明</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#hashset-案例说明">HashSet 案例说明</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#hashset-底层机制说明">HashSet 底层机制说明</a>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#实例测试">实例测试</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#hashset-课堂练习1">HashSet 课堂练习1</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#set-接口实现类-linkedhashset">Set
+接口实现类-LinkedHashSet</a>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#linkedhashset-的全面说明">LinkedHashSet
+的全面说明</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#linkedhashset-课后练习题">LinkedHashSet
+课后练习题</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#map-接口和常用方法">Map 接口和常用方法</a>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#map-接口实现类的特点实用">Map
+接口实现类的特点[实用]</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#map-接口常用方法">Map 接口常用方法</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#map-接口遍历方法">Map 接口遍历方法</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#map-接口课堂练习">Map 接口课堂练习</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#map-接口实现类-hashmap">Map 接口实现类-HashMap</a>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#hashmap-小结">HashMap 小结</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#hashmap-底层机制及源码剖析">HashMap
+底层机制及源码剖析</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#map-接口实现类-hashtable">Map 接口实现类-Hashtable</a>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#hashtable-的基本介绍">HashTable 的基本介绍</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#hashtable-和hashmap-对比">Hashtable 和HashMap
+对比</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#map-接口实现类-properties">Map 接口实现类-Properties</a>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#基本介绍">基本介绍</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#基本使用">基本使用</a></li>
+</ul></li>
+<li><a
+href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#总结-开发中如何选择集合实现类">总结-开发中如何选择集合实现类!</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#treeset">TreeSet</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#treemap">TreeMap</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#collections-工具类">Collections 工具类</a>
+<ul>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#collections-工具类介绍">Collections 工具类介绍</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#排序操作均为static-方法">排序操作（均为static
+方法)</a></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#查找替换">查找、替换</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/java-tutorial/blob/main/ch14_collection_and_map.md#本章作业">本章作业</a></li>
+</ul></li>
+</ul></details>
 
 ### Overview
 
