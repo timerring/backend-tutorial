@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>java.io.InputStream</OriginalElement>
+  <nodes>
+    <node x="272.5000000000001" y="380.0">java.io.BufferedInputStream</node>
+    <node x="325.6527777777778" y="95.0">java.io.Closeable</node>
+    <node x="0.0" y="285.0">java.io.FileInputStream</node>
+    <node x="506.625" y="0.0">java.lang.AutoCloseable</node>
+    <node x="312.1527777777778" y="190.0">java.io.InputStream</node>
+    <node x="286.00000000000006" y="285.0">java.io.FilterInputStream</node>
+    <node x="599.0" y="285.0">java.io.ObjectInputStream</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="java.io.FilterInputStream" target="java.io.InputStream" relationship="TO_ONE">
+      <point x="-12.847000000000037" y="-18.5" />
+      <point x="-14.999777777777808" y="18.5" />
+    </edge>
+    <edge source="java.io.InputStream" target="java.io.Closeable" relationship="DEPENDENCY">
+      <point x="-89.99977777777781" y="0.0" />
+      <point x="250.0" y="208.5" />
+      <point x="250.0" y="113.5" />
+      <point x="-78.49977777777781" y="0.0" />
+    </edge>
+    <edge source="java.io.FileInputStream" target="java.io.InputStream" relationship="DEPENDENCY">
+      <point x="0.0" y="-18.5" />
+      <point x="106.5" y="256.0" />
+      <point x="402.153" y="256.0" />
+      <point x="2.2222222219170362E-4" y="18.5" />
+    </edge>
+    <edge source="java.io.ObjectInputStream" target="java.io.InputStream" relationship="DEPENDENCY">
+      <point x="0.0" y="-18.5" />
+      <point x="720.5" y="256.0" />
+      <point x="402.153" y="256.0" />
+      <point x="2.2222222219170362E-4" y="18.5" />
+    </edge>
+    <edge source="java.io.BufferedInputStream" target="java.io.FilterInputStream" relationship="DEPENDENCY">
+      <point x="-4.000000000000057" y="-18.5" />
+      <point x="0.0" y="18.5" />
+    </edge>
+    <edge source="java.io.Closeable" target="java.lang.AutoCloseable" relationship="DEPENDENCY">
+      <point x="0.0" y="-18.5" />
+      <point x="404.1527777777778" y="18.5" />
+      <point x="-101.5" y="0.0" />
+    </edge>
+    <edge source="java.io.BufferedInputStream" target="java.io.InputStream" relationship="DEPENDENCY">
+      <point x="127.49999999999989" y="-18.5" />
+      <point x="531.5" y="256.0" />
+      <point x="402.153" y="256.0" />
+      <point x="2.2222222219170362E-4" y="18.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic" zoom="1.25" showDependencies="true" x="498.0" y="244.2" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+

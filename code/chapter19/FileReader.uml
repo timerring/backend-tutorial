@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>java.io.FileReader</OriginalElement>
+  <nodes>
+    <node x="102.25" y="95.0">java.io.Closeable</node>
+    <node x="306.25" y="95.0">java.lang.Readable</node>
+    <node x="48.0" y="380.0">java.io.FileReader</node>
+    <node x="313.0" y="285.0">java.io.BufferedReader</node>
+    <node x="221.25" y="190.0">java.io.Reader</node>
+    <node x="0.0" y="285.0">java.io.InputStreamReader</node>
+    <node x="75.25" y="0.0">java.lang.AutoCloseable</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="java.io.Reader" target="java.io.Closeable">
+      <point x="-35.75" y="-22.5" />
+      <point x="257.0" y="165.0" />
+      <point x="194.25" y="165.0" />
+      <point x="0.0" y="22.5" />
+    </edge>
+    <edge source="java.io.Reader" target="java.lang.Readable">
+      <point x="35.75" y="-22.5" />
+      <point x="328.5" y="165.0" />
+      <point x="391.25" y="165.0" />
+      <point x="0.0" y="22.5" />
+    </edge>
+    <edge source="java.io.InputStreamReader" target="java.io.Reader">
+      <point x="0.0" y="-22.5" />
+      <point x="146.5" y="260.0" />
+      <point x="257.0" y="260.0" />
+      <point x="-35.75" y="22.5" />
+    </edge>
+    <edge source="java.io.BufferedReader" target="java.io.Reader">
+      <point x="0.0" y="-22.5" />
+      <point x="439.0" y="260.0" />
+      <point x="328.5" y="260.0" />
+      <point x="35.75" y="22.5" />
+    </edge>
+    <edge source="java.io.Closeable" target="java.lang.AutoCloseable">
+      <point x="0.0" y="-22.5" />
+      <point x="0.0" y="22.5" />
+    </edge>
+    <edge source="java.io.FileReader" target="java.io.InputStreamReader">
+      <point x="0.0" y="-22.5" />
+      <point x="0.0" y="22.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="282.5" y="212.5" />
+  <SelectedNodes>
+    <node>java.io.FileReader</node>
+  </SelectedNodes>
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
