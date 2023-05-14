@@ -1,0 +1,27 @@
+<c3p0-config>
+    <!-- 数据源名称代表连接池 -->
+  <named-config name="hsp_edu">
+<!-- 驱动类 -->
+  <property name="driverClass">com.mysql.jdbc.Driver</property>
+  <!-- url-->
+  	<property name="jdbcUrl">jdbc:mysql://127.0.0.1:3306/hsp_db02</property>
+  <!-- 用户名 -->
+  		<property name="user">root</property>
+  		<!-- 密码 -->
+  	<property name="password">hsp</property>
+  	<!-- 每次增长的连接数-->
+    <property name="acquireIncrement">5</property>
+    <!-- 初始的连接数 -->
+    <property name="initialPoolSize">10</property>
+    <!-- 最小连接数 -->
+    <property name="minPoolSize">5</property>
+   <!-- 最大连接数 -->
+    <property name="maxPoolSize">50</property>
+
+	<!-- 可连接的最多的命令对象数 -->
+    <property name="maxStatements">5</property> 
+    
+    <!-- 每个连接对象可连接的最多的命令对象数 -->
+    <property name="maxStatementsPerConnection">2</property>
+  </named-config>
+</c3p0-config>
