@@ -785,6 +785,767 @@ href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch14
 <li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch14_collection_and_map.md#本章作业">本章作业</a></li>
 </ul></li>
 </ul></details>
+<details> 
+    <summary>第15章 泛型</summary>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch15_generics.md#第15章-泛型">第15章 泛型</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch15_generics.md#泛型的理解和好处">泛型的理解和好处</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch15_generics.md#看一个需求">看一个需求</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch15_generics.md#使用传统方法的问题分析">使用传统方法的问题分析</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch15_generics.md#泛型快速体验">泛型快速体验</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch15_generics.md#泛型的好处">泛型的好处</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch15_generics.md#泛型介绍">泛型介绍</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch15_generics.md#泛型的语法">泛型的语法</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch15_generics.md#泛型的声明">泛型的声明</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch15_generics.md#泛型的实例化">泛型的实例化</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch15_generics.md#泛型使用举例">泛型使用举例</a></li>
+<li><a
+href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch15_generics.md#泛型使用的注意事项和细节">泛型使用的注意事项和细节</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch15_generics.md#泛型课堂类型">泛型课堂类型</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch15_generics.md#泛型课堂练习题">泛型课堂练习题</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch15_generics.md#自定义泛型">自定义泛型</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch15_generics.md#自定义泛型类">自定义泛型类</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch15_generics.md#自定义泛型接口">自定义泛型接口</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch15_generics.md#自定义泛型方法">自定义泛型方法</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch15_generics.md#自定义泛型方法练习">自定义泛型方法练习</a></li>
+</ul></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch15_generics.md#泛型的继承和通配符">泛型的继承和通配符</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch15_generics.md#泛型的继承和通配符说明">泛型的继承和通配符说明</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch15_generics.md#junit">JUnit</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch15_generics.md#本章作业">本章作业</a></li>
+</ul></li>
+</ul></details>
+
+<details> 
+    <summary>第16章 坦克大战1</summary>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch16_tank_battle1.md#第16章-坦克大战1">第16章 坦克大战1</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch16_tank_battle1.md#java-绘图坐标体系">java 绘图坐标体系</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch16_tank_battle1.md#坐标体系-介绍">坐标体系-介绍</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch16_tank_battle1.md#坐标体系-像素">坐标体系-像素</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch16_tank_battle1.md#介绍-快速入门">介绍-快速入门</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch16_tank_battle1.md#绘图原理">绘图原理</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch16_tank_battle1.md#graphics-类">Graphics 类</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch16_tank_battle1.md#绘出坦克">绘出坦克</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch16_tank_battle1.md#java-事件处理机制">java 事件处理机制</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch16_tank_battle1.md#基本说明">基本说明</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch16_tank_battle1.md#示意图">示意图</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch16_tank_battle1.md#事件处理机制深入理解">事件处理机制深入理解</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch16_tank_battle1.md#坦克动起来">坦克动起来</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch16_tank_battle1.md#本章作业">本章作业</a></li>
+</ul></li>
+</ul></li>
+</ul></details>
+
+<details> 
+    <summary>第17章 多线程基础</summary>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#第17章-多线程基础">第17章 多线程基础</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#线程相关概念">线程相关概念</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#程序program">程序(program)</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#进程">进程</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#线程">线程</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#其他相关概念">其他相关概念</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#线程基本使用">线程基本使用</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#创建线程的两种方式">创建线程的两种方式</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#线程应用案例1-继承thread-类">线程应用案例1-继承Thread
+类</a></li>
+<li><a
+href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#线程应用案例2-实现runnable-接口">线程应用案例2-实现Runnable
+接口</a></li>
+<li><a
+href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#线程使用应用案例-多线程执行">线程使用应用案例-多线程执行</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#线程如何理解">线程如何理解</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#继承thread-vs-实现runnable-的区别">继承Thread vs
+实现Runnable 的区别</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#线程终止">线程终止</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#基本说明">基本说明</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#应用案例">应用案例</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#线程常用方法">线程常用方法</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#常用方法第一组">常用方法第一组</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#注意事项和细节">注意事项和细节</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#常用方法第二组">常用方法第二组</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#课堂练习">课堂练习</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#用户线程和守护线程">用户线程和守护线程</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#应用案例-1">应用案例</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#线程的生命周期">线程的生命周期</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#线程的几种状态">线程的几种状态</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#线程状态转换图">线程状态转换图!!!!</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#synchronized">Synchronized</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#线程同步机制">线程同步机制</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#同步具体方法-synchronized">同步具体方法-Synchronized</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#方法一同步代码块">方法一同步代码块</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#方法二方法声明">方法二方法声明</a></li>
+</ul></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#分析同步原理">分析同步原理</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#互斥锁">互斥锁</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#基本介绍">基本介绍</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#注意事项和细节-1">注意事项和细节</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#线程的死锁">线程的死锁</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#基本介绍-1">基本介绍</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#应用案例-2">应用案例</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#释放锁">释放锁</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#下面操作会释放锁">下面操作会释放锁</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#下面操作不会释放锁">下面操作不会释放锁</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch17_multithreading_basics.md#本章作业">本章作业</a></li>
+</ul></li>
+</ul></details>
+
+<details> 
+    <summary>第18章 坦克大战2</summary>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch18_tank_battle2.md#第18章-坦克大战2">第18章 坦克大战2</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch18_tank_battle2.md#线程-应用到坦克大战">线程-应用到坦克大战</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch18_tank_battle2.md#坦克大战03">坦克大战0.3</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch18_tank_battle2.md#坦克大战04">坦克大战0.4</a></li>
+</ul></li>
+</ul></li>
+</ul></details>
+
+<details> 
+    <summary>第19章 IO流</summary>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#第19章-io流">第19章 IO流</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#文件">文件</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#常用的文件操作">常用的文件操作</a>
+<ul>
+<li><a
+href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#创建文件对象相关构造器和方法">创建文件对象相关构造器和方法</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#获取文件的相关信息">获取文件的相关信息</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#目录的操作和文件删除">目录的操作和文件删除</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#io-流原理及流的分类">IO 流原理及流的分类</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#java-io-流原理">Java IO 流原理</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#流的分类">流的分类</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#io-流体系图-常用的类">IO 流体系图-常用的类</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#io-流体系图">IO 流体系图</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#文件-vs-流">文件 VS 流</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#fileinputstream-介绍">FileInputStream 介绍</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#fileinputstream-应用实例">FileInputStream
+应用实例</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#fileoutputstream-介绍">FileOutputStream 介绍</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#fileoutputstream-应用实例">FileOutputStream
+应用实例</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#fileoutputstream-应用实例2">FileOutputStream
+应用实例2</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#filereader-和filewriter-介绍">FileReader 和FileWriter
+介绍</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#filereader-相关方法">FileReader 相关方法</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#filewriter-相关方法">FileWriter 相关方法</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#filereader-和filewriter-应用案例">FileReader 和FileWriter
+应用案例</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#节点流和处理流">节点流和处理流</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#基本介绍">基本介绍</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#节点流和处理流一览图">节点流和处理流一览图</a></li>
+<li><a
+href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#节点流和处理流的区别和联系">节点流和处理流的区别和联系</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#处理流的功能">处理流的功能</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#处理流-bufferedreader-和bufferedwriter">处理流
+BufferedReader 和BufferedWriter</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#应用案例">应用案例</a></li>
+</ul></li>
+<li><a
+href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#处理流bufferedinputstream-和bufferedoutputstream">处理流BufferedInputStream
+和BufferedOutputStream</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#应用案例-1">应用案例</a></li>
+</ul></li>
+<li><a
+href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#对象流objectinputstream-和objectoutputstream">对象流ObjectInputStream
+和ObjectOutputStream</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#对象流介绍">对象流介绍</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#应用案例-2">应用案例</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#标准输入输出流">标准输入输出流</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#介绍">介绍</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#应用案例1">应用案例1</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#应用案例2">应用案例2</a></li>
+</ul></li>
+<li><a
+href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#转换流inputstreamreader-和outputstreamwriter">转换流InputStreamReader
+和OutputStreamWriter</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#应用案例-3">应用案例</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#打印流printstream-和printwriter">打印流PrintStream
+和PrintWriter</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#properties-类">Properties 类</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#基本介绍-1">基本介绍</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#应用案例-4">应用案例</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch19_IO_stream.md#本章作业">本章作业</a></li>
+</ul></li>
+</ul></details>
+
+<details> 
+    <summary>第20章 坦克大战3</summary>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch20_tank_battle3.md#第20章-坦克大战3">第20章 坦克大战3</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch20_tank_battle3.md#坦克大战05版">坦克大战0.5版</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch20_tank_battle3.md#坦克大战06版">坦克大战0.6版</a></li>
+</ul></li>
+</ul></details>
+
+#### Java进阶部分（点击展开 Click to expand）
+
+<details> 
+    <summary>第21章 网络编程</summary>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch21_network_programming.md#第21章-网络编程">第21章 网络编程</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch21_network_programming.md#网络的相关概念">网络的相关概念</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch21_network_programming.md#网络通信">网络通信</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch21_network_programming.md#网络">网络</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch21_network_programming.md#ip-地址">ip 地址</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch21_network_programming.md#ipv4-地址分类">ipv4 地址分类</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch21_network_programming.md#域名">域名</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch21_network_programming.md#网络通信协议">网络通信协议</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch21_network_programming.md#tcp-和-udp">TCP 和 UDP</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch21_network_programming.md#inetaddress-类">InetAddress 类</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch21_network_programming.md#相关方法">相关方法</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch21_network_programming.md#应用案例">应用案例</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch21_network_programming.md#socket">Socket</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch21_network_programming.md#基本介绍">基本介绍</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch21_network_programming.md#tcp-网络通信编程">TCP 网络通信编程</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch21_network_programming.md#基本介绍-1">基本介绍</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch21_network_programming.md#应用案例1使用字节流">应用案例1(使用字节流)</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch21_network_programming.md#应用案例2使用字节流">应用案例2(使用字节流)</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch21_network_programming.md#应用案例3使用字符流">应用案例3(使用字符流)</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch21_network_programming.md#应用案例4">应用案例4</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch21_network_programming.md#netstat-指令">netstat 指令</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch21_network_programming.md#tcp-网络通讯">TCP 网络通讯</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch21_network_programming.md#udp-网络通信编程">UDP 网络通信编程</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch21_network_programming.md#基本介绍-2">基本介绍</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch21_network_programming.md#基本流程">基本流程</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch21_network_programming.md#应用案例-1">应用案例</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch21_network_programming.md#本章作业">本章作业</a></li>
+</ul></li>
+</ul></details>
+
+<details> 
+    <summary>第22章 多用户即时通信系统</summary>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch22_multi-user_instant_messaging_system.md#第22章-多用户即时通信系统">第22章 多用户即时通信系统</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch22_multi-user_instant_messaging_system.md#项目涉及">项目涉及</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch22_multi-user_instant_messaging_system.md#项目开发流程">项目开发流程</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch22_multi-user_instant_messaging_system.md#需求分析">需求分析</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch22_multi-user_instant_messaging_system.md#功能实现-用户登录">功能实现-用户登录</a></li>
+<li><a
+href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch22_multi-user_instant_messaging_system.md#功能实现-拉取在线用户列表">功能实现-拉取在线用户列表</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch22_multi-user_instant_messaging_system.md#功能实现-无异常退出">功能实现-无异常退出</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch22_multi-user_instant_messaging_system.md#功能实现-私聊">功能实现-私聊</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch22_multi-user_instant_messaging_system.md#功能实现-群聊">功能实现-群聊</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch22_multi-user_instant_messaging_system.md#功能说明-发文件">功能说明-发文件</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch22_multi-user_instant_messaging_system.md#功能实现-服务器推送新闻">功能实现-服务器推送新闻</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch22_multi-user_instant_messaging_system.md#客户端">客户端</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch22_multi-user_instant_messaging_system.md#服务器端">服务器端</a></li>
+</ul></li>
+</ul></details>
+
+<details> 
+    <summary>第23章 反射(reflection)</summary>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch23_reflection.md#第23章-反射reflection">第23章 反射(reflection)</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch23_reflection.md#一个需求引出反射">一个需求引出反射</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch23_reflection.md#反射机制">反射机制</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch23_reflection.md#java-reflection">Java Reflection</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch23_reflection.md#java-反射机制原理示意图">Java 反射机制原理示意图</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch23_reflection.md#java-反射机制可以完成">Java 反射机制可以完成</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch23_reflection.md#反射相关的主要类">反射相关的主要类</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch23_reflection.md#反射优点和缺点">反射优点和缺点</a></li>
+<li><a
+href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch23_reflection.md#反射调用优化-关闭访问检查">反射调用优化-关闭访问检查</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch23_reflection.md#class-类">Class 类</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch23_reflection.md#基本介绍">基本介绍</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch23_reflection.md#class-类的常用方法">Class 类的常用方法</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch23_reflection.md#获取class-类对象">获取Class 类对象</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch23_reflection.md#哪些类型有class-对象">哪些类型有Class 对象</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch23_reflection.md#如下类型有class-对象">如下类型有Class 对象</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch23_reflection.md#类加载">类加载</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch23_reflection.md#基本说明">基本说明</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch23_reflection.md#类加载时机">类加载时机</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch23_reflection.md#类加载过程图">类加载过程图</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch23_reflection.md#类加载各阶段完成任务">类加载各阶段完成任务</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch23_reflection.md#加载阶段">加载阶段</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch23_reflection.md#连接阶段-验证">连接阶段-验证</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch23_reflection.md#连接阶段-准备">连接阶段-准备</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch23_reflection.md#连接阶段-解析">连接阶段-解析</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch23_reflection.md#initialization初始化">Initialization初始化</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch23_reflection.md#通过反射获取类的结构信息">通过反射获取类的结构信息</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch23_reflection.md#第一组-javalangclass-类">第一组: java.lang.Class
+类</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch23_reflection.md#第二组-javalangreflectfield-类">第二组:
+java.lang.reflect.Field 类</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch23_reflection.md#第三组-javalangreflectmethod-类">第三组:
+java.lang.reflect.Method 类</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch23_reflection.md#第四组-javalangreflectconstructor-类">第四组:
+java.lang.reflect.Constructor 类</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch23_reflection.md#通过反射创建对象">通过反射创建对象</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch23_reflection.md#案例演示">案例演示</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch23_reflection.md#通过反射访问类中的成员">通过反射访问类中的成员</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch23_reflection.md#访问属性">访问属性</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch23_reflection.md#访问方法">访问方法</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch23_reflection.md#本章作业">本章作业</a></li>
+</ul></li>
+</ul></details>
+
+<details> 
+    <summary>第24章 零基础学MySQL</summary>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#第24章-零基础学mysql">第24章 零基础学MySQL</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#解决之道">解决之道</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#文件数据库">文件、数据库</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#mysql-数据库的安装和配置">MySQL
+数据库的安装和配置</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#使用命令行窗口连接mysql-数据库">使用命令行窗口连接MYSQL
+数据库</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#操作示意图">操作示意图</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#数据库三层结构">数据库三层结构</a></li>
+<li><a
+href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#数据在数据库中的存储方式">数据在数据库中的存储方式</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#sql-语句分类">SQL 语句分类</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#创建数据库">创建数据库</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#查看删除数据库">查看、删除数据库</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#备份恢复数据库">备份恢复数据库</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#备份恢复数据库的表">备份恢复数据库的表</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#创建表">创建表</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#mysql-常用数据类型列类型">Mysql 常用数据类型(列类型)</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#数值型整数的基本使用">数值型(整数)的基本使用</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#定义一个无符号的整数">定义一个无符号的整数</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#数值型bit的使用">数值型(bit)的使用</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#数值型小数的基本使用">数值型(小数)的基本使用</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#字符串的基本使用">字符串的基本使用</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#字符串使用细节">字符串使用细节</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#日期类型的基本使用">日期类型的基本使用</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#创建表练习">创建表练习</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#修改表-基本介绍">修改表-基本介绍</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#修改表-课堂练习">修改表-课堂练习</a></li>
+<li><a
+href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#数据库ccreaterreaduupdateddelete语句">数据库C[create]R[read]U[update]D[delete]语句</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#insert-语句">Insert 语句</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#使用insert-语句向表中插入数据">使用INSERT
+语句向表中插入数据。</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#细节说明">细节说明</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#update-语句">update 语句</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#使用-update-语句修改表中数据">使用 update
+语句修改表中数据</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#基本使用">基本使用</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#使用细节">使用细节</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#delete-语句">delete 语句</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#使用delete-语句删除表中数据">使用delete
+语句删除表中数据</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#使用细节-1">使用细节</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#select-语句">select 语句</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#基本语法">基本语法</a></li>
+<li><a
+href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#注意事项创建测试表学生表">注意事项(创建测试表学生表)</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#练习">练习</a></li>
+<li><a
+href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#使用表达式对查询的列进行运算">使用表达式对查询的列进行运算</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#在select-语句中可使用as-语句">在select 语句中可使用as
+语句</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#练习-1">练习</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#在where-子句中经常使用的运算符">在where
+子句中经常使用的运算符</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#使用where-子句进行过滤查询">使用where
+子句，进行过滤查询</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#使用order-by-子句排序查询结果">使用order by
+子句排序查询结果</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#合计统计函数">合计/统计函数</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#count">count</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#sum">sum</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#avg">avg</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#maxmin">max/min</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#使用group-by-子句对列进行分组">使用group by
+子句对列进行分组</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#使用having-子句对分组后的结果进行过滤">使用having
+子句对分组后的结果进行过滤</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#字符串相关函数">字符串相关函数</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#数学相关函数">数学相关函数</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#时间日期相关函数">时间日期相关函数</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#加密和系统函数">加密和系统函数</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#流程控制函数">流程控制函数</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#mysql-表查询--加强">mysql 表查询--加强</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#介绍">介绍</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#分页查询">分页查询</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#使用分组函数和分组子句">使用分组函数和分组子句</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#数据分组的总结">数据分组的总结</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#mysql-多表查询">mysql 多表查询</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#多表查询练习">多表查询练习</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#自连接">自连接</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#mysql-表子查询">mysql 表子查询</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#什么是子查询">什么是子查询</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#单行子查询">单行子查询</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#多行子查询">多行子查询</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#子查询当做临时表使用">子查询当做临时表使用</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#在多行子查询中使用-all-操作符">在多行子查询中使用 all
+操作符</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#在多行子查询中使用-any-操作符">在多行子查询中使用 any
+操作符</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#多列子查询">多列子查询</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#在from-子句中使用子查询">在from 子句中使用子查询</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#表复制">表复制</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#自我复制数据蠕虫复制">自我复制数据(蠕虫复制)</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#合并查询">合并查询</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#介绍-1">介绍</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#mysql-表外连接">mysql 表外连接</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#外连接">外连接</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#mysql-约束">mysql 约束</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#基本介绍">基本介绍</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#primary-key主键">primary key(主键)</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#not-null非空">not null(非空)</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#unique唯一">unique(唯一)</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#foreign-key外键">foreign key(外键)</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#check">check</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#商店售货系统表设计案例">商店售货系统表设计案例</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#自增长">自增长</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#自增长基本介绍">自增长基本介绍</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#自增长使用细节">自增长使用细节</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#mysql-索引">mysql 索引</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#索引快速入门">索引快速入门</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#索引的原理">索引的原理</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#索引的类">索引的类</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#索引使用">索引使用</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#哪些列上适合使用索引">哪些列上适合使用索引</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#mysql-事务">mysql 事务</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#什么是事务">什么是事务</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#事务和锁">事务和锁</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#回退事务">回退事务</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#提交事务">提交事务</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#事务细节讨论">事务细节讨论</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#mysql-事务隔离级别">mysql 事务隔离级别</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#事务隔离级别介绍">事务隔离级别介绍</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#查看事务隔离级别">查看事务隔离级别</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#事务隔离级别">事务隔离级别</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#mysql-的事务隔离级--案例">mysql
+的事务隔离级--案例</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#设置事务隔离级别">设置事务隔离级别</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#mysql-事务acid">mysql 事务ACID</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#事务的acid-特性">事务的acid 特性</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#mysql-表类型和存储引擎">mysql 表类型和存储引擎</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#基本介绍-1">基本介绍</a></li>
+<li><a
+href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#主要的存储引擎表类型特点">主要的存储引擎/表类型特点</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#细节说明-1">细节说明</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#三种存储引擎表使用案例">三种存储引擎表使用案例</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#如何选择表的存储引擎">如何选择表的存储引擎</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#修改存储引擎">修改存储引擎</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#视图view">视图(view)</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#看一个需求">看一个需求</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#基本概念">基本概念</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#视图的基本使用">视图的基本使用</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#视图细节讨论">视图细节讨论</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#视图最佳实践">视图最佳实践</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#视图课堂练习">视图课堂练习</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#mysql-管理">Mysql 管理</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#mysql-用户">Mysql 用户</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#创建用户">创建用户</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#删除用户">删除用户</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#用户修改密码">用户修改密码</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#mysql-中的权限">mysql 中的权限</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#给用户授权">给用户授权</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#回收用户授权">回收用户授权</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#权限生效指令">权限生效指令</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#课堂练习题">课堂练习题</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#细节说明-2">细节说明</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch24_MySQL_basic.md#本章作业">本章作业</a></li>
+</ul></li>
+</ul></details>
+
+<details> 
+    <summary>第25章 JDBC 和数据库连接池</summary>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#第25章-jdbc-和数据库连接池">第25章 JDBC 和数据库连接池</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#jdbc-概述">JDBC 概述</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#基本介绍">基本介绍</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#模拟jdbc">模拟JDBC</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#jdbc-带来的好处">JDBC 带来的好处</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#jdbc-快速入门">JDBC 快速入门</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#jdbc-程序编写步骤">JDBC 程序编写步骤</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#jdbc-第一个程序">JDBC 第一个程序</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#获取数据库连接5种方式">获取数据库连接5种方式</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#方式1">方式1</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#方式2">方式2</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#方式3">方式3</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#方式4">方式4</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#方式5">方式5</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#resultset结果集">ResultSet[结果集]</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#基本介绍-1">基本介绍</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#应用实例">应用实例</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#statement">Statement</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#基本介绍-2">基本介绍</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#preparedstatement">PreparedStatement</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#基本介绍-3">基本介绍</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#预处理好处">预处理好处</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#应用案例">应用案例</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#jdbc-的相关-api-小结">JDBC 的相关 API 小结</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#封装jdbcutils">封装JDBCUtils</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#说明">说明</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#代码实现">代码实现</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#事务">事务</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#基本介绍-4">基本介绍</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#应用实例-1">应用实例</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#批处理">批处理</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#基本介绍-5">基本介绍</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#数据库连接池">数据库连接池</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#5k-次连接数据库问题">5k 次连接数据库问题</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#传统获取connection-问题分析">传统获取Connection
+问题分析</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#数据库连接池种类">数据库连接池种类</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#c3p0-应用实例">C3P0 应用实例</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#druid德鲁伊应用实例">Druid(德鲁伊)应用实例</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#将jdbcutils-工具类改成druid德鲁伊实现">将JDBCUtils
+工具类改成Druid(德鲁伊)实现</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#apachedbutils">Apache—DBUtils</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#先分析一个问题">先分析一个问题</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#自定义方法解决">自定义方法解决</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#基本介绍-6">基本介绍</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#应用实例-2">应用实例</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#表-和-javabean-的类型映射关系">表 和 JavaBean
+的类型映射关系</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#dao-和增删改查通用方法-basicdao">DAO
+和增删改查通用方法-BasicDao</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#先分析一个问题-1">先分析一个问题</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#基本说明">基本说明</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch25_jdbc_and_database_connection_pools.md#basicdao-应用实例">BasicDAO 应用实例</a></li>
+</ul></li>
+</ul></li>
+</ul></details>
+
+<details> 
+    <summary>第26章 满汉楼</summary>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch26_man_han_lou.md#第26章-满汉楼">第26章 满汉楼</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch26_man_han_lou.md#程序框架图">程序框架图</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch26_man_han_lou.md#代码实现">代码实现</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch26_man_han_lou.md#数据库">数据库</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch26_man_han_lou.md#java">Java</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch26_man_han_lou.md#多表查询思路">多表查询思路</a></li>
+</ul></li>
+</ul></li>
+</ul></details>
+
+<details> 
+    <summary>第27章 正则表达式</summary>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch27_regular_expressions.md#第27章-正则表达式">第27章 正则表达式</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch27_regular_expressions.md#为什么要学习正则表达式">为什么要学习正则表达式</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch27_regular_expressions.md#再提出几个问题">再提出几个问题</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch27_regular_expressions.md#解决之道-正则表达式">解决之道-正则表达式</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch27_regular_expressions.md#正则表达式基本介绍">正则表达式基本介绍</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch27_regular_expressions.md#介绍">介绍</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch27_regular_expressions.md#正则表达式底层实现">正则表达式底层实现</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch27_regular_expressions.md#实例分析">实例分析</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch27_regular_expressions.md#正则表达式语法">正则表达式语法</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch27_regular_expressions.md#基本介绍">基本介绍</a></li>
+<li><a
+href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch27_regular_expressions.md#元字符metacharacter-转义号">元字符(Metacharacter)-转义号\\</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch27_regular_expressions.md#元字符-字符匹配符">元字符-字符匹配符</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch27_regular_expressions.md#元字符-选择匹配符">元字符-选择匹配符</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch27_regular_expressions.md#元字符-限定符">元字符-限定符</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch27_regular_expressions.md#元字符-定位符">元字符-定位符</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch27_regular_expressions.md#分组">分组</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch27_regular_expressions.md#非贪婪匹配">非贪婪匹配</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch27_regular_expressions.md#应用实例">应用实例</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch27_regular_expressions.md#对字符串进行如下验证">对字符串进行如下验证</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch27_regular_expressions.md#正则表达式三个常用类">正则表达式三个常用类</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch27_regular_expressions.md#matcher-类">Matcher 类</a></li>
+</ul></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch27_regular_expressions.md#分组捕获反向引用">分组、捕获、反向引用</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch27_regular_expressions.md#提出需求">提出需求</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch27_regular_expressions.md#介绍-1">介绍</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch27_regular_expressions.md#看几个小案例">看几个小案例</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch27_regular_expressions.md#经典的结巴程序">经典的结巴程序</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch27_regular_expressions.md#string-类中使用正则表达式">String 类中使用正则表达式</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch27_regular_expressions.md#替换功能">替换功能</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch27_regular_expressions.md#判断功能">判断功能</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch27_regular_expressions.md#分割功能">分割功能</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch27_regular_expressions.md#本章作业">本章作业</a></li>
+</ul></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch27_regular_expressions.md#附正则表达式元字符详解">附：正则表达式元字符详解</a></li>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch27_regular_expressions.md#附正则表达式参考大全">附：正则表达式参考大全</a></li>
+</ul></li>
+</ul></details>
+
+<details> 
+    <summary>第28章 骑士周游问题</summary>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch28_the_knight_tour_problem.md#第28章-骑士周游问题">第28章 骑士周游问题</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch28_the_knight_tour_problem.md#算法优化意义">算法优化意义</a></li>
+<li><a
+href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch28_the_knight_tour_problem.md#经典算法面试题-骑士周游问题">经典算法面试题-骑士周游问题</a>
+<ul>
+<li><a href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch28_the_knight_tour_problem.md#马踏棋盘算法介绍">马踏棋盘算法介绍</a></li>
+</ul></li>
+<li><a
+href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch28_the_knight_tour_problem.md#骑士周游问题的解决步骤和思路分析">骑士周游问题的解决步骤和思路分析</a></li>
+</ul></li>
+</ul></details>
+
+
 
 ### Overview
 
