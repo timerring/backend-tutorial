@@ -1572,6 +1572,7 @@ href="https://github.com/timerring/backend-tutorial/blob/main/java-tutorial/ch28
 
 ### ChangeLog
 
+- v1.1 java部分更新完毕 230615
 - v1.0 基础结构 230411
 
 ### TODO
